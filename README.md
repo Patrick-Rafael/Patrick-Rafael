@@ -1,5 +1,8 @@
 # Eae, beleza? Eu sou Patrick Rafael 👋
 
+### Meu nome é Patrick Rafael Borges, estou cursando a faculdade de Sistemas de Informação, atualmente me encontro no 5º periodo.
+
+
 
 
 <!--
