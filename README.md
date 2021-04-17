@@ -9,8 +9,7 @@
 - Estudo na UniRedentor-Itaperuna/RJ 👨🏽‍🎓
 
 ## Minhas Redes sociais 
-**https://www.instagram.com/patrickrafaelborges/**
-
+[![Instagram Badge] (https://www.instagram.com/patrickrafaelborges/)
 <!--
 **Patrick-Rafael/Patrick-Rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
