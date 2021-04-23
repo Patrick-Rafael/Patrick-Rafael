@@ -10,6 +10,7 @@
 ### Minhas Redes Sociais 
 [![Gmail Badge](https://img.shields.io/badge/-patrickrafael05@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickrafael05@gmail.com)](mailto:patrickrafael05@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@patrickrafaelborges-A53799?style=flat-square&labelColor=A53799&logo=instagram&logoColor=white&link=https://www.instagram.com/patrickrafaelborges/)](https://www.instagram.com/patrickrafaelborges/)
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Rafael-0275B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-rafael-a8a3661a8/)](https://www.linkedin.com/in/patrick-rafael-a8a3661a8/) 
 <!--
 **Patrick-Rafael/Patrick-Rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
