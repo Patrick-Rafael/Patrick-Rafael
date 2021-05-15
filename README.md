@@ -6,8 +6,8 @@
 - Moro no interior do Rio De janeiro  💪🏽
 - Gosto muito de video games e cinema 🎥🕹🎮
 - Estudo na UniRedentor-Itaperuna/RJ 👨🏽‍🎓
-- Nével de inglês intemediário 🇺🇸
-
+- Nével de inglês intemediário🎓
+  
 ### Minhas Redes Sociais 
 [![Gmail Badge](https://img.shields.io/badge/-patrickrafael05@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickrafael05@gmail.com)](mailto:patrickrafael05@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@patrickrafaelborges-A53799?style=flat-square&labelColor=A53799&logo=instagram&logoColor=white&link=https://www.instagram.com/patrickrafaelborges/)](https://www.instagram.com/patrickrafaelborges/)
