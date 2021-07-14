@@ -1,7 +1,7 @@
 # Eae, beleza? Eu sou Patrick Rafael 👋
 
 ##### Meu nome é Patrick Rafael Borges, estou cursando a faculdade de Sistemas de Informação, atualmente me encontro no 5º periodo. 😉 
-###### Estou atualmente estudando a linguagem Python e pretendo me aprofundar na mesma. 😆
+###### Estou atualmente estudando a linguagem Python e o framework Django e Java para Desenvolvimento de aplicativos android. 😆
 ## Algumas informaões sobre mim
 - Moro no interior do Rio De janeiro  💪🏽
 - Gosto muito de video games e cinema 🎥🕹🎮
