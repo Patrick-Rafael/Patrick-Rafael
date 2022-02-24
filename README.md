@@ -7,6 +7,12 @@
 - Gosto muito de video games e cinema 🎥🕹🎮
 - Estudo na UniRedentor-Itaperuna/RJ 👨🏽‍🎓
 - Nével de inglês intemediário🎓
+
+<div align="center">
+  <a href="https://github.com/Patrick-Rafael">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrenunnes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrenunnes&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
 ### Minhas Redes Sociais 
 [![Gmail Badge](https://img.shields.io/badge/-patrickrafael05@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrickrafael05@gmail.com)](mailto:patrickrafael05@gmail.com)
@@ -26,6 +32,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
  <div style="display: inline_block"><br>
     <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
