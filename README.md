@@ -1,7 +1,7 @@
 # Eae, beleza? Eu sou Patrick Rafael 👋
 
 ##### Meu nome é Patrick Rafael Borges, estou cursando a faculdade de Sistemas de Informação, atualmente me encontro no 7º peréodo. 😉 
-###### Estou atualmente estudando a linguagem Python e o framework Django e Java para Desenvolvimento de aplicativos android. 😆
+###### Estou atualmente estudando as linguagens Java e Kotlin para Desenvolvimento de aplicativos android. 😆
 ## Algumas informaões sobre mim
 - Moro no interior do Rio De janeiro  💪🏽
 - Gosto muito de video games e cinema 🎥🕹🎮
@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Patrick-Rafael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-Rafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Rafael&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
