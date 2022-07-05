@@ -41,6 +41,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Patrick-Android "height="30" wwidth="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/>
     <img align="center" alt="Patrick-Firebase "height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+     <img align="center" alt="Patrick-Firebase "height="30" width="40" <img src="https://avatars.githubusercontent.com/u/878437?v=4"/>
   </div>
   
   
