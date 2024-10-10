@@ -1,6 +1,6 @@
 # Eae, beleza? Eu sou Patrick Rafael 👋
 
-##### Meu nome é Patrick Rafael Borges, estou cursando a faculdade de Sistemas de Informação, atualmente me encontro no 7º peréodo. 😉 
+##### Meu nome é Patrick Rafael Borges, sou bacharel em Sistemas de Informação, Formado pela UniRedentor. 😉 
 ###### Estou atualmente estudando as linguagens Java e Kotlin para Desenvolvimento de aplicativos android. 😆
 ## Algumas informaões sobre mim
 - Moro no interior do Rio De janeiro  💪🏽
