@@ -1,7 +1,8 @@
 # Eae, beleza? Eu sou Patrick Rafael 👋
 
 ##### Meu nome é Patrick Rafael Borges, sou bacharel em Sistemas de Informação, Formado pela UniRedentor. 😉 
-###### Estou atualmente estudando as linguagens Java e Kotlin para Desenvolvimento de aplicativos android. 😆
+###### Atualmente estou atuando como desenvolvedor FullStack para a ShiftSistemas. 😆
+###### Trabalho com algumas tecnologias como: Html, Css, React-Native, Angular, Java-script, MySql, MongoDb e algumas outras.  
 ## Algumas informaões sobre mim
 - Moro no interior do Rio De janeiro  💪🏽
 - Gosto muito de video games e cinema 🎥🕹🎮
