@@ -34,12 +34,11 @@ Here are some ideas to get you started:
 
 
 
- <div style="display: inline_block"><br>
-    <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Patrick-Android "height="30" wwidth="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/>
-    <img align="center" alt="Patrick-Firebase "height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
-     <img align="center" alt="Patrick-Firebase "height="30" width="40" <img src="https://avatars.githubusercontent.com/u/878437?v=4"/>
-     <img align="center" alt="Patrick-Html "height="30" width="40" <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconarchive.com%2Fshow%2Fmetronome-icons-by-cornmanthe3rd%2FOther-html-5-icon.html&psig=AOvVaw3ebhLGgjJ82HU5qsdKQNti&ust=1730907195439000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDcj_PBxYkDFQAAAAAdAAAAABAE"/>
-  </div>
+// <div style="display: inline_block"><br>
+    //<img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    //<img align="center" alt="Patrick-Android "height="30" wwidth="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"/>
+    //<img align="center" alt="Patrick-Firebase "height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+    //<img align="center" alt="Patrick-Firebase "height="30" width="40" <img src="https://avatars.githubusercontent.com/u/878437?v=4"/>  
+  //</div>
   
   
